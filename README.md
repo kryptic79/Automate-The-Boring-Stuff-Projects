@@ -10,7 +10,7 @@ Chapters 3: Functions
 Chapters 4: Lists
 Current Chapters 5: Dictionaries and Structuring Data
 
-## 💡 What's Inside Chapter 1
+##  Projects
 
 | Project Name        | Description                                                              |
 |---------------------|---------------------------------------------------------------------------|
