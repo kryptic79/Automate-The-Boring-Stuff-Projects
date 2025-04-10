@@ -5,10 +5,14 @@ Welcome! This repository contains my practice projects and solutions as I work t
 # Current Progress
 
 Chapter 1: Python Basics  
-Chapters 2: Flow Control
-Chapters 3: Functions
-Chapters 4: Lists
-Current Chapters 5: Dictionaries and Structuring Data
+
+Chapter 2: Flow Control
+
+Chapter 3: Functions
+
+Chapter 4: Lists
+
+Current Chapter 5: Dictionaries and Structuring Data
 
 ##  Projects
 
