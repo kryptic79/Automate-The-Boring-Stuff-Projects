@@ -1,6 +1,6 @@
-#Automate the boring stuff pratice projects
+#Automate The Boring Stuff practice projects
 #Phillip Oiwoh
-#Chapter 1
+#Chapter 3
 
 def collatz(number):
     if number % 2 == 0:
