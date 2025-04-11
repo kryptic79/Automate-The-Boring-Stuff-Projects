@@ -2,28 +2,27 @@
 
 # Comma code
 
+def commaCode(array):
+    num = len(array)
+    sentence = '' 
+    for i in range(num):
+        if i == num-1:
+            sentence += 'and ' + array[i]
+        else:
+            sentence+= array[i] + ' , '
+    return sentence
+
+spam = ["apples", "bananas", "tofu", "cats", "mats", "ways"]
+commaCode(spam)
+print(commaCode(spam))
 
 
-##def commaCode(sentence):
-##    num = len(sentence)
-##    for i in range(num):
-##        
-##
-##
-##
-##
-##
-##
-##
-##
-##
-##spam = ["apples", "bananas", "tofu", "rta"]
-##sentence = " "
-##no = len(spam)
-##print(no)
-##sentence = sentence + spam[i] + " , "
+
+
+#I Thought i should inculde my process as i grow to learn form my mistakes
+#I need to simplify  
 ##for i in range(no):
-##    if spam[i] != spam[len(spam) - 2]:
+##    if spam[i] != spam[no - 2]:
 ##       sentence = sentence + spam[i] + " , "
 ##       print(sentence)
 ##       print(i) 
